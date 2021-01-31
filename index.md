@@ -2,6 +2,7 @@
 var: variable
 replace: replaced_variable
 title: Page_title
+layout: demo
 ---
 
 # some stuff
