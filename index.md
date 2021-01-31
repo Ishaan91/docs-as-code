@@ -1,6 +1,7 @@
 ---
 var: variable
 replace: replaced_variable
+---
 
 # some stuff
 
