@@ -1,9 +1,11 @@
 ---
 var: variable
 replace: replaced_variable
+title: Page_title
 ---
 
 # some stuff
+## {{ page.title }}
 
 Home page for the Github pages.
 
