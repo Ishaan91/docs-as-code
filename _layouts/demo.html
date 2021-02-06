@@ -2,13 +2,14 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>This site belongs to {{ site.name }}</title>
+    <title>{{ page.title }}</title>
   </head>
   <body>
 	<header>
-	Max Payne
+	This site belongs to {{ site.name }}
 	</header>
 	This was done {{ site.when }}
     {{ content }}
+	<footer>{{ common.md }}
   </body>
 </html>
