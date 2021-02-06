@@ -18,4 +18,14 @@ Some more changes made in the local.
 {{ page.var }}
 {{ page.replace }}
 
+Best games:
+
+{% for item in site.data.demo %}
+
+Protagonist: {{ item.name }}
+Genre: {{ item.genre }}
+Developer: {{ item.dev }}
+
+{% endfor %}		
+
 [test file](docs-as-code/test/testfile2.md)
