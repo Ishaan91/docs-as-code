@@ -22,7 +22,7 @@ The following games are one of the best games I've played:
 
 {% for item in site.data.demo %}
 
-Protagonist: {{ item.name }}\
+Game: {{ item.name }}\
 Genre: {{ item.genre }}\
 Developer: {{ item.dev }}
 
