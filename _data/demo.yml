@@ -4,3 +4,15 @@
 -  name: Gears of War series
    genre: Action
    dev: Epic Games
+-  name: Tomb Raider series
+   genre: Action/Adventure
+   dev: Square Enix
+-  name: Freedom Fighters
+   genre: Action
+   dev: EA Games
+-  name: Need for Speed Most Wanted
+   genre: Racing
+   dev: EA Black Box
+-  name: Assassin's Creed The Ezio Collection
+   genre: Action/Adventure
+   dev: Ubisoft
