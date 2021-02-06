@@ -1,6 +1,18 @@
--  name: Max Payne
-   genre: action
+-  name: Max Payne series
+   genre: Action
    dev: Remedy Entertainment
--  name: Gears of War
+-  name: Gears of War series
    genre: Action
    dev: Epic Games
+-  name: Tomb Raider series
+   genre: Action/Adventure
+   dev: Square Enix
+-  name: Freedom Fighters
+   genre: Action
+   dev: EA Games
+-  name: Need for Speed: Most Wanted
+   ganre: Racing
+   dev: EA Black Box
+-  name: Assassin's Creed: The Ezio Collection
+   genre: Action/Adventure
+   dev: Ubisoft

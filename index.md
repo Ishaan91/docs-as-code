@@ -18,7 +18,7 @@ Some more changes made in the local.
 {{ page.var }}
 {{ page.replace }}
 
-Best games:
+The following games are one of the best games I've played:
 
 {% for item in site.data.demo %}
 
