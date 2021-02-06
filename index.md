@@ -22,8 +22,8 @@ Best games:
 
 {% for item in site.data.demo %}
 
-Protagonist: {{ item.name }}
-Genre: {{ item.genre }}
+Protagonist: {{ item.name }}\
+Genre: {{ item.genre }}\
 Developer: {{ item.dev }}
 
 {% endfor %}		
