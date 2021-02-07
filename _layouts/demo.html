@@ -3,13 +3,12 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-	<link rel="stylesheet" type="text/css" href="./../assets/css/style.css"
+	<link rel="stylesheet" type="text/css" href="./assets/css/style.css"
   </head>
   <body>
 	<header>
-	This site belongs to {{ site.name }}
+	This site belongs to {{ site.owner_name }}
 	</header>
-	This was done {{ site.when }}
     {{ content }}
 	<footer> {% include common.md %} </footer>
   </body>

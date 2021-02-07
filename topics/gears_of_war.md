@@ -1,0 +1,16 @@
+
+---
+
+title: Gears of War
+
+---
+
+# {{ page.title }}
+
+Gears of War, also known simply as Gears, is a media franchise centered on a series of video games created by Epic Games, developed and managed by The Coalition, and owned and published by Xbox Game Studios. The franchise is best known for its third-person shooter video games, which has been supplemented by spin-off video game titles, a comic book series, seven novels, a board game adaptation and various merchandise.
+
+The original trilogy focuses on the conflict between humanity and the subterranean reptilian hominids known as the Locust Horde on the world of Sera. The first installment, titled Gears of War, was released on November 7, 2006 for the Xbox 360. The game follows protagonist Marcus Fenix, a soldier in the Coalition of Ordered Governments tasked to lead a last-ditch effort to destroy the Locust Horde and save humanity. Two subsequent titles, Gears of War 2 (2008) and Gears of War 3 (2011), featured a three-way conflict between humanity, the Locust Horde and their mutated counterparts, the Lambent. Gears of War: Judgment, a spin-off prequel to the series' first title, was released in 2013; it focuses on Damon Baird, one of Fenix's squad-mates.[1] Gears of War: Ultimate Edition was released for Microsoft Windows on March 1, 2016.[2] The fifth installment in the series, Gears of War 4, is set 25 years after Gears of War 3 and follows Marcus Fenix's son, JD and his friends as they battle security forces deployed by a totalitarian COG government as well as the Swarm, a reconstituted version of the Locust Horde that once again threatens humanity.[3] Gears 5 (2019) is the direct sequel to Gears of War 4 and revolves around Kait Diaz, a friend of JD, who embarks on a quest to learn the truth about her past and the connections between her heritage and the Locust Horde.
+
+Gears of War was developed by Epic Games. Cliff Bleszinski, who has previously worked on Epic's Unreal Tournament games, served as the series' lead game designer for the first three installments. He was inspired by gameplay elements from Resident Evil 4, Kill Switch, and Bionic Commando.[4] The series was also guided[clarification needed] by Rod Fergusson, the executive producer and director of development of Epic Games until 2012.[5][6] The first four installments of the Gears of War series used a modified version of the Unreal Engine 3 engine.[7][8] On January 27, 2014, Microsoft acquired rights to the franchise from Epic Games. Canadian studio The Coalition developed Gears of War 4, which was released on October 11, 2016 for the Xbox One and Windows 10.[9] A sequel, Gears 5, was released on September 10, 2019. All six installments in Gears of War featured several multiplayer modes that allowed players to compete against each other or team-up to battle AI opponents on Xbox Live.
+
+Gears of War became one of the best-selling franchises for the Xbox 360.[10] The series is well known for its emphasis on cover-based combat, in which players can use objects to avoid gunfire or safely engage enemies.[11] The Gears of War games have been amongst the most popular and most played titles on Xbox Live.[10][12]
