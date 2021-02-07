@@ -1,18 +1,24 @@
 -  name: Max Payne series
    genre: Action
    dev: Remedy Entertainment
+   file: topics\max_payne.md
 -  name: Gears of War series
    genre: Action
    dev: Epic Games
+   file: topics\gears_of_war.md
 -  name: Tomb Raider series
    genre: Action/Adventure
    dev: Square Enix
+   file: topics\tomb_raider.md
 -  name: Freedom Fighters
    genre: Action
    dev: EA Games
+   file: topics\freedom_fighters.md
 -  name: Need for Speed Most Wanted
    genre: Racing
    dev: EA Black Box
+   file: topics\nfs_mw.md
 -  name: Assassin's Creed The Ezio Collection
    genre: Action/Adventure
    dev: Ubisoft
+   file: topics\assassins_creed.md
