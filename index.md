@@ -1,31 +1,23 @@
 ---
 var: variable
 replace: replaced_variable
-title: Page_title
+title: My favourite video games
 layout: demo
 ---
 
-# some stuff
-## {{ page.title }}
+# {{ page.title }}
 
-Home page for the Github pages.
 
-Some change for TWT session activity.
-
-Some more changes made in the local.
-
-## Local variables
 {{ page.var }}
 {{ page.replace }}
 
-The following games are one of the best games I've played:
+The following is a list of best games I've played. These are a must to try if you haven't already. Video games are awesome.
+Please note that the list is iteratively generated. I'm working on creating files for each entry.
 
 {% for item in site.data.demo %}
 
-Game: {{ item.name }}\
+Game: {{ [item.name](topics/{{ item.file }}) }}\
 Genre: {{ item.genre }}\
 Developer: {{ item.dev }}
 
 {% endfor %}		
-
-[test file](test/testfile2.md)
