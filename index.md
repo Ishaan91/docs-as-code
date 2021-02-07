@@ -28,4 +28,4 @@ Developer: {{ item.dev }}
 
 {% endfor %}		
 
-[test file](docs-as-code/test/testfile2.md)
+[test file](test/testfile2.md)
