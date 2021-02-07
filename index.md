@@ -12,10 +12,11 @@ Please note that the list is iteratively generated. I'm working on creating file
 
 {% for item in site.data.demo %}
 
-Game: [{{ item.name}}](topics/{{ item.file }} )\
+Game: [ {{ item.name}} ](topics/ {{ item.file }} )\
 Genre: {{ item.genre }}\
 Developer: {{ item.dev }}
 
 {% endfor %}		
 
 [test file](test/testfile2.md)
+	
