@@ -1,6 +1,4 @@
 ---
-var: variable
-replace: replaced_variable
 title: My favourite video games
 layout: demo
 ---
@@ -18,5 +16,4 @@ Developer: {{ item.dev }}
 
 {% endfor %}		
 
-[test file](test/testfile2.md)
 	
