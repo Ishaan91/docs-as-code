@@ -2,7 +2,7 @@
 ---
 
 title: Assassin's Creed
-layout: template_general
+layout: demo
 
 ---
 

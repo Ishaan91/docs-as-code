@@ -1,3 +1,5 @@
+h1, h2, h3, h4, h5, h6 {color:#9E3942;}
+
 hr { 
 	display: block;
 	border-width: 1px;
@@ -21,7 +23,12 @@ header {
 	font-size: 12px;
 }
 body {
-	line-height: 190%;
+	line-height: 100%;
 	padding-left: 50px;
 	font-family: Verdana, Helvetica;
+}
+
+footer {
+  font-family: serif;
+  font-size: 12px;
 }

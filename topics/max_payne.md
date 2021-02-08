@@ -1,9 +1,8 @@
 
 ---
 
-layout: template_general
 title: Max Payne
-
+layout: demo
 ---
 
 # {{ page.title }}

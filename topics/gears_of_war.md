@@ -2,7 +2,7 @@
 ---
 
 title: Gears of War
-layout: template_general
+layout: demo
 
 ---
 
