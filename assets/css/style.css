@@ -1,4 +1,27 @@
+hr { 
+	display: block;
+	border-width: 1px;
+	border-color: lightblue;
+}
+
+blockquote { 
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color: #f1f1f1;
+	font-family: monospace;
+	font-size: 12px;
+	line-height: 190%;
+}
+
+header {
+	font-family: Papyrus, Lucida Handwriting, cursive, Trebuchet MS;
+	font-size: 12px;
+}
 body {
-	font: arial;
-	background-color: lightblue;
-	}
+	line-height: 190%;
+	padding-left: 50px;
+	font-family: Verdana, Helvetica;
+}
