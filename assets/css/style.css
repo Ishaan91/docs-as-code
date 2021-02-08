@@ -1,4 +1,4 @@
-h1, h2, h3, h4, h5, h6 {color:#9E3942;}
+h1, h2, h3, h4, h5, h6 {color:red;}
 
 hr { 
 	display: block;
@@ -19,7 +19,7 @@ blockquote {
 }
 
 header {
-	font-family: Papyrus, Lucida Handwriting, cursive, Trebuchet MS;
+	font-family: serif;
 	font-size: 12px;
 }
 body {
