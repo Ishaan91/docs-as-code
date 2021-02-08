@@ -1,8 +1,7 @@
 
 ---
-
+layout: template_general
 title: Max Payne
-
 ---
 
 # {{ page.title }}
