@@ -1,7 +1,6 @@
-
 ---
-title: Gears of War
 layout: template_general
+title: Gears of War
 ---
 
 # {{ page.title }}
