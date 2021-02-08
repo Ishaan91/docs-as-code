@@ -1,9 +1,7 @@
 
 ---
-
 title: Gears of War
 layout: demo
-
 ---
 
 # {{ page.title }}

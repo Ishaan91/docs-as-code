@@ -1,6 +1,5 @@
 
 ---
-
 title: Max Payne
 layout: demo
 ---

@@ -1,9 +1,7 @@
 
 ---
-
 title: Assassin's Creed
 layout: demo
-
 ---
 
 # {{ page.title }}
