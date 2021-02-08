@@ -1,7 +1,9 @@
 
 ---
+
 title: Assassin's Creed
 layout: template_general
+
 ---
 
 # {{ page.title }}
